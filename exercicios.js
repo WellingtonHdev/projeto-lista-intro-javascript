@@ -6,7 +6,7 @@ function soma(num1, num2) {
   
   return num1 + num2
 }
-//console.log(soma(11,22))
+console.log(soma(11,22))
 
 // EXERCÍCIO 0B
 function imprimeMensagem() {
@@ -15,7 +15,7 @@ function imprimeMensagem() {
 
   console.log(mensagem)
 }
-//console.log(imprimeMensagem())
+console.log(imprimeMensagem())
 
 // EXERCÍCIOS PARA FAZER ------------------------------------------------------------------
 
