@@ -115,9 +115,9 @@ console.log("10)",retornaUltimoElemento())
 // EXERCÍCIO 11 retorna o array com os elementos trocado
   function trocaPrimeiroEUltimo(array) {
     let temp = array[0]
-    array[0] = array[array.length - 1]; 
-    array[array.length - 1] = temp; 
-    return array; s
+    array[0] = array[array.length - 1]
+    array[array.length - 1] = temp 
+    return array
   }
   console.log("11)",trocaPrimeiroEUltimo([1, 2, 3, 4, 5]))
 
